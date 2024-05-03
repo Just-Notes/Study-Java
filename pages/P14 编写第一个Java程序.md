@@ -1,4 +1,4 @@
-- #Java
+- #Java #Class
 - 编写一个 HelloWorld 程序
 	- ```java
 	  public class HelloWorld {
