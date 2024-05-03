@@ -1,1 +1,0 @@
-This is where the java notes is stored
