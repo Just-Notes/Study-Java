@@ -1,2 +1,2 @@
 - #Java
--
+- - https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html
