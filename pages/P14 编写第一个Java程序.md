@@ -7,4 +7,8 @@
 	      }
 	  }
 	  ```
-- 编译
+-
+- 编译 Java 程序
+	- ```bash
+	  ❯ javac HelloWorld.java 
+	  ```
