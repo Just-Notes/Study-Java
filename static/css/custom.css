@@ -1,0 +1,9 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreen.min.css");
+
+:root {
+  --ct-text-size: 20px;
+  --ct-line-height: 1.6;
+  --ls-font-family: "LXGW WenKai Screen";
+  --ct-page-title-font-family: var(--ls-font-family);
+  --ct-code-font-family: "LXGW WenKai Screen";
+}
