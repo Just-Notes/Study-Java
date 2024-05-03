@@ -1,4 +1,7 @@
-on: [push]
+on:
+  schedule:
+    # 每 6 小时触发一次
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
