@@ -14,5 +14,7 @@
 	  ```
 -
 - 运行第一个 Java 程序
--
--
+	- ```bash
+	  ❯ java HelloWorld 
+	  Hello, World!
+	  ```
