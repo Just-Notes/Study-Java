@@ -1,12 +1,11 @@
 - #Java #Class
+- {{video https://www.bilibili.com/video/BV1a5411y77c/?p=14}}
 - 编写一个 HelloWorld 程序
-	- ```java
-	  public class HelloWorld {
+	- public class HelloWorld {
 	      public static void main(String[] args) {
 	          System.out.println("Hello, World!");
 	      }
 	  }
-	  ```
 -
 - 编译 Java 程序
 	- ```bash
