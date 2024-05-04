@@ -1,5 +1,4 @@
 - #Java #Class
-- {{video https://www.bilibili.com/video/BV1a5411y77c/?p=14}}
 - 编写一个 HelloWorld 程序
 	- public class HelloWorld {
 	      public static void main(String[] args) {

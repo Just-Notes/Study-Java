@@ -1,5 +1,4 @@
 - #Java #标识符
-- {{video https://www.bilibili.com/video/BV1a5411y77c/?p=21}}
 - ## 什么是标识符
   id:: 6635858b-f5e7-42e7-b030-20c4dac41a14
 	- 1、在[[Java]]中，[[标识符]]是用来给变量、方法、类和包命名的字符序列。
