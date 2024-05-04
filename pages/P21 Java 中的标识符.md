@@ -15,3 +15,4 @@
 	- 3、类名，接口名，枚举，注释：首字母大写，后面每个单词首字母大写。（StudentService，UserService）
 	- 4、变量名和方法名：首字母小写，后面每个单词首字母大写。（doSome，doOther）
 	- 5、变量名：全部大写，每个单词用下划线链接。（LOGIN_SUCCES，SUSTEM_ERROR）
+	- 6、包名：全部小写。
