@@ -1,4 +1,4 @@
-- #Java #Class #Public
+- #Java #class #Public
 - 1. 一个源文件中可以定义多个class
       2. 编译之后，每个class都会生成一个对应的.class文件
       3. 如果一个类是public的，那么这个类的类名必须和文件名一致
