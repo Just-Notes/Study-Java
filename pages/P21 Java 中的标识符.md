@@ -16,3 +16,5 @@
 	- 4、变量名和方法名：首字母小写，后面每个单词首字母大写。（doSome，doOther）
 	- 5、变量名：全部大写，每个单词用下划线链接。（LOGIN_SUCCES，SUSTEM_ERROR）
 	- 6、包名：全部小写。
+-
+- - https://github.com/27Aaron/Learning-Programming/tree/main/Java/P21
