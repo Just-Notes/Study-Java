@@ -6,4 +6,4 @@
 	- 2、abstract、assert、boolean、break、byte、case、catch、char、class、continue、default、do、double、else、enum、extends、final、finally、float、for、if、implements、import、int、interface、instanceof、long、native、new、package、private、protected、public、return、short、static、strictfp、super、switch、synchronized、this、throw、throws、transient、try、void、volatile、while
 	- 3、Java保留字: goto、const
 -
-- - https://github.com/27Aaron/Learning-Programming/tree/main/Java/P
+- - https://github.com/27Aaron/Learning-Programming/tree/main/Java/P22
