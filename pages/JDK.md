@@ -1,1 +1,2 @@
-- #Java
+- #Java #JDK
+- JDK（Java Development Kit）是 Java 编程语言的官方软件开发工具包。它包含了开发、部署和运行 Java 应用程序所需的所有工具。
