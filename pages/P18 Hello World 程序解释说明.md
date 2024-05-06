@@ -1,4 +1,4 @@
-- #Java #class
+- #Java #class #Public
 	- ```java
 	  
 	  //public 表示公开的
